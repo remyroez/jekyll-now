@@ -2,12 +2,11 @@
 layout: page
 ---
 
-Some information about you!
+# Contents
+- [Gist](https://gist.github.com/remyroez)
+- [awesome](https://github.com/remyroez/awesome)
 
-### More Information
-
-- A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+# Links
+- [Twitter - @remyroez](https://twitter.com/remyroez)
+- [Twitter - @remyroez_dev](https://twitter.com/remyroez_dev)
+- [Qiita - remyroez](http://qiita.com/remyroez)
